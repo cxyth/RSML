@@ -1,4 +1,5 @@
-# Remote Sensing with Machine Learning
+# Remote Sensing with Machine Learning  
+![classification](doc/cls.png)
   
 ## 环境：
 - scikit-learn
